@@ -1,0 +1,11 @@
+{
+  "name": "resizr",
+  "version": "0.0.0",
+  "description": "Image resizer using imagemagick.",
+  "main": "index.js",
+  "author": "Geert Pasteels",
+  "devDependencies": {
+    "rimraf": "~2.0.2",
+    "should": "~0.6.3"
+  }
+}
